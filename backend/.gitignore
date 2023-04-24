@@ -1,0 +1,7 @@
+reader/*
+retriever/*
+
+# Ignre cache files
+*.pyc
+
+.env.local
